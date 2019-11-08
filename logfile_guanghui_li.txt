@@ -1,0 +1,83 @@
+commit 14ac14a2c083d7948999357619a845253cf33871
+Author: Guanghui Li <liguanghui.cs@gmail.com>
+Date:   Thu Sep 12 23:15:43 2019 -0400
+
+    removed yarn.lock file
+
+commit 96c497b1e341cfc5641ec985de1441d0bbf5d8af
+Author: Guanghui Li <liguanghui.cs@gmail.com>
+Date:   Thu Sep 12 23:11:48 2019 -0400
+
+    added lodash debounce feature
+
+commit 5b3258c47baef80223100b09ee15e8d2a0494084
+Author: Guanghui Li <liguanghui.cs@gmail.com>
+Date:   Thu Sep 12 23:04:47 2019 -0400
+
+    Finished search feature
+
+commit b0e27e3b4f8468b05f20aee9146a16c975c87f30
+Author: Guanghui Li <liguanghui.cs@gmail.com>
+Date:   Thu Sep 12 22:56:36 2019 -0400
+
+    Finished 2.7.1 Video Selection
+
+commit 1fba05f8c28a518fb20d2790f4b1563edc45aa9a
+Author: Guanghui Li <liguanghui.cs@gmail.com>
+Date:   Thu Sep 12 22:45:55 2019 -0400
+
+    Finished 2.6 Prettify user interface using Bootstrap
+
+commit 020322d3053b1e66309e2348b39557e245f4a93f
+Author: Guanghui Li <liguanghui.cs@gmail.com>
+Date:   Wed Sep 11 22:42:29 2019 -0400
+
+    Finished 2.5.3 Populating the list of video items and playing back the first one
+
+commit c7f77b50f16d19b53f15beb7d06b0e94ca9691a5
+Author: Guanghui Li <liguanghui.cs@gmail.com>
+Date:   Wed Sep 11 22:30:06 2019 -0400
+
+    Finished 2.5.2 Building lists with Array.map
+
+commit c8fa3ae2dad64e6494f594257ede98467671c7b5
+Author: Guanghui Li <liguanghui.cs@gmail.com>
+Date:   Wed Sep 11 22:15:59 2019 -0400
+
+    Finished 2.5.1 Props
+
+commit 154ca8f19a690e434e1072a7a6d1d613699082b8
+Author: Guanghui Li <liguanghui.cs@gmail.com>
+Date:   Wed Sep 11 16:55:32 2019 -0400
+
+    Finished 2.4 Ajax requests with React
+
+commit 089865857147b8b1d869b25d8347bae502165249
+Author: Guanghui Li <liguanghui.cs@gmail.com>
+Date:   Wed Sep 11 16:40:37 2019 -0400
+
+    Finished 2.3 Introduction to React State
+
+commit e97f92da7f4676398fddccef3f58b6253fb3ec88
+Author: Guanghui Li <liguanghui.cs@gmail.com>
+Date:   Wed Sep 11 16:27:06 2019 -0400
+
+    Finished 2.2 Create a React class component
+
+commit 22c42eae986ece32264e88e6e18c811c91f9313b
+Author: Guanghui Li <liguanghui.cs@gmail.com>
+Date:   Wed Sep 11 16:10:55 2019 -0400
+
+    Finished 2.1 Create a React 'functional component'
+
+commit 8ce9513d65ccf5eeadd823ba79f79743aaeac809
+Author: Guanghui Li <liguanghui.cs@gmail.com>
+Date:   Sun Sep 8 21:20:40 2019 -0400
+
+    Created a new react app
+
+commit 1e06ae980e089beadb148ed65a9dc1c66927e384
+Author: Guanghui Li <liguanghui.cs@gmail.com>
+Date:   Sun Sep 8 18:07:57 2019 -0400
+
+    Initial commit from Create React App
